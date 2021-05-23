@@ -11,3 +11,4 @@ Features are :
 
 clone this repository and configure it with your firebsae project.
 make sure you add google-services.json file also.
+currently the project is compatible for only one collection of wallpaper but can be scaled to many collections easily.
